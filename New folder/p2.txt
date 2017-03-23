@@ -2,3 +2,21 @@
 
 
 now its commited
+
+
+D:\git>git commit -m "3 rd commit"
+[master a7c5ef6] 3 rd commit
+ Committer: Subhash <MSubhash@ad.harman.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 12 insertions(+)
+ create mode 100644 New folder/personal1.txt
